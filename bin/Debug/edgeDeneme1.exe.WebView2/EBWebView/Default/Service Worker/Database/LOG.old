@@ -1,0 +1,12 @@
+2021/07/05-20:37:59.369 3874 Reusing MANIFEST E:\Projeler\Visual proje\edgeDeneme1\edgeDeneme1\bin\Debug\edgeDeneme1.exe.WebView2\EBWebView\Default\Service Worker\Database/MANIFEST-000001
+2021/07/05-20:37:59.370 3874 Recovering log #7
+2021/07/05-20:37:59.372 3874 Reusing old log E:\Projeler\Visual proje\edgeDeneme1\edgeDeneme1\bin\Debug\edgeDeneme1.exe.WebView2\EBWebView\Default\Service Worker\Database/000007.log 
+2021/07/05-21:07:33.785 2be8 Level-0 table #12: started
+2021/07/05-21:07:34.062 2be8 Level-0 table #12: 62012 bytes OK
+2021/07/05-21:07:34.148 2be8 Delete type=0 #7
+2021/07/05-21:17:23.205 2560 Compacting 1@1 + 1@2 files
+2021/07/05-21:17:23.665 2560 Generated table #13@1: 455 keys, 11654 bytes
+2021/07/05-21:17:23.665 2560 Compacted 1@1 + 1@2 files => 11654 bytes
+2021/07/05-21:17:23.985 2560 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/05-21:17:23.986 2560 Delete type=2 #9
+2021/07/05-21:17:23.986 2560 Delete type=2 #12

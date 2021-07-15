@@ -1,0 +1,33 @@
+2021/07/05-20:38:22.381 28ec Reusing MANIFEST E:\Projeler\Visual proje\edgeDeneme1\edgeDeneme1\bin\Debug\edgeDeneme1.exe.WebView2\EBWebView\Default\IndexedDB\https_www.fullhdfilmizlesene.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/05-20:38:22.381 28ec Recovering log #4
+2021/07/05-20:38:22.407 28ec Reusing old log E:\Projeler\Visual proje\edgeDeneme1\edgeDeneme1\bin\Debug\edgeDeneme1.exe.WebView2\EBWebView\Default\IndexedDB\https_www.fullhdfilmizlesene.com_0.indexeddb.leveldb/000004.log 
+2021/07/05-20:50:14.887 3da8 Level-0 table #8: started
+2021/07/05-20:50:15.081 3da8 Level-0 table #8: 653910 bytes OK
+2021/07/05-20:50:15.204 3da8 Delete type=0 #4
+2021/07/05-20:50:29.207 3e50 Compacting 1@1 + 1@2 files
+2021/07/05-20:50:29.338 3e50 Generated table #9@1: 70 keys, 4197 bytes
+2021/07/05-20:50:29.349 3e50 Compacted 1@1 + 1@2 files => 4197 bytes
+2021/07/05-20:50:29.392 3e50 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/05-20:50:29.393 3e50 Delete type=2 #5
+2021/07/05-20:50:29.393 3e50 Delete type=2 #8
+2021/07/05-21:17:40.271 2560 Level-0 table #11: started
+2021/07/05-21:17:40.586 2560 Level-0 table #11: 654491 bytes OK
+2021/07/05-21:17:40.635 2560 Delete type=0 #7
+2021/07/05-21:18:02.723 1f88 Compacting 1@1 + 1@2 files
+2021/07/05-21:18:02.962 1f88 Generated table #12@1: 76 keys, 4520 bytes
+2021/07/05-21:18:02.962 1f88 Compacted 1@1 + 1@2 files => 4520 bytes
+2021/07/05-21:18:02.998 1f88 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/05-21:18:02.999 1f88 Delete type=2 #9
+2021/07/05-21:18:02.999 1f88 Delete type=2 #11
+2021/07/05-21:24:15.908 1390 Level-0 table #14: started
+2021/07/05-21:24:15.984 1390 Level-0 table #14: 127199 bytes OK
+2021/07/05-21:24:16.017 1390 Delete type=0 #10
+2021/07/05-21:24:16.018 1390 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/07/05-21:24:16.018 1390 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00P5\x93~\xa7wB\x00\x01V\x00s\x00t\x00a\x00t\x00i\x00c\x00-\x00c\x00a\x00c\x00h\x00e\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00w\x00w\x00.\x00f\x00u\x00l\x00l\x00h\x00d\x00f\x00i\x00l\x00m\x00i\x00z\x00l\x00e\x00s\x00e\x00n\x00e\x00.\x00c\x00o\x00m\x00/\x00r\x00e\x00k\x00l\x00a\x00m\x00/\x00v\x00a\x00s\x00t\x00/\x00j\x00w\x00/\x00j\x00w\x00-\x007\x00.\x001\x002\x00.\x003\x00/\x00j\x00w\x00-\x00i\x00c\x00o\x00n\x00s\x00.\x00w\x00o\x00f\x00f' @ 69541 : 1
+2021/07/05-21:24:16.018 1390 Compacting 1@1 + 1@2 files
+2021/07/05-21:24:16.204 1390 Generated table #15@1: 67 keys, 3994 bytes
+2021/07/05-21:24:16.204 1390 Compacted 1@1 + 1@2 files => 3994 bytes
+2021/07/05-21:24:16.240 1390 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/05-21:24:16.240 1390 Delete type=2 #12
+2021/07/05-21:24:16.240 1390 Delete type=2 #14
+2021/07/05-21:24:16.241 1390 Manual compaction at level-1 from '\x00\x01\x01 \x03\x00P5\x93~\xa7wB\x00\x01V\x00s\x00t\x00a\x00t\x00i\x00c\x00-\x00c\x00a\x00c\x00h\x00e\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00w\x00w\x00.\x00f\x00u\x00l\x00l\x00h\x00d\x00f\x00i\x00l\x00m\x00i\x00z\x00l\x00e\x00s\x00e\x00n\x00e\x00.\x00c\x00o\x00m\x00/\x00r\x00e\x00k\x00l\x00a\x00m\x00/\x00v\x00a\x00s\x00t\x00/\x00j\x00w\x00/\x00j\x00w\x00-\x007\x00.\x001\x002\x00.\x003\x00/\x00j\x00w\x00-\x00i\x00c\x00o\x00n\x00s\x00.\x00w\x00o\x00f\x00f' @ 69541 : 1 .. (end); will stop at (end)
